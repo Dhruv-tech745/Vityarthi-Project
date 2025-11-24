@@ -28,7 +28,4 @@ The primary target users for the Carbon Footprint Estimator are:
 - **Feedback Mechanism**: A simple textual message provides context and feedback on the calculated footprint (e.g., "Doing Great!" or "Needs control on usage").
 
 
-## Usage Instructions
-Save the Markdown content above as `PROJECT_STATEMENT.md` (or `docs/PROJECT_STATEMENT.md`) in your GitHub repository. This file complements your existing `README.md` by providing a detailed project statement, problem context, scope, and features.
 
-It will render perfectly on GitHub with headers, lists, bold text, and clean formatting. Commit this alongside your `carbon_estimator.py` and `README.md` for complete documentation!
