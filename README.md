@@ -65,3 +65,7 @@ Verify the core arithmetic by manually calculating a simple scenario:
 
 ## Usage
 Copy the Markdown above into a file named `README.md` in your GitHub repository root. This will render beautifully on GitHub with proper tables, lists, code blocks, and formatting. If you have the actual Python script (`carbon_estimator.py`), commit it alongside this README for a complete repo!
+
+
+## OUTPUT
+  <img width="1919" height="947" alt="Image" src="https://github.com/user-attachments/assets/c548ebae-925c-403b-8392-cd731833779b" />
